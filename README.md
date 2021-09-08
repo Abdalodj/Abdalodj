@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdalodj" alt="abdalodj" /></a> </p>
 
-- 🔭 I’m currently working on [react-demo](https://github.com/Abdalodj/react-demo)
+- 🔭 I’m currently working on [react-demo](https://github.com/Abdalodj/react-demo) and [flutter state management with Bloc](https://github.com/Abdalodj/flutter-bloc-state-management)
 
 - 🌱 I’m currently learning **react.js, react native, flutter state management, DevOps and digital marketing.**
 
